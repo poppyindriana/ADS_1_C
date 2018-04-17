@@ -1,0 +1,110 @@
+SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+
+<Sistem Informasi PEMESANAN GAUN PENGANTIN>
+<SIGAP>
+
+<10/04/2018> DRAF
+
+Disiapkan Oleh:
+
+<Novia Sindi Ratnawati, 150535608101>
+<Poppy Indriana, 150535600006>
+<Risky Perdana Adi Perkasa, 150535602155>
+
+sebagai kelengkapan Tugas Akhir prodi S1 Teknik Informatika
+Mata Kuliah Analisis dan Desain Sistem
+
+
+Abstrak:
+
+<Dokumen berisikan tentang project perangkat lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) yang berfungsi sebagai tempat pemesanan gaun pengantin untuk para calon pengantin wanita. Tersedia berbagai menu di dalam SIGAP diantara menu product yang berisi berbagai macam gaun yang ingin dipesan, menu contact yang berisi alamat email SIGAP yang digunakan sebagai pengiriman bukti transfer, dan menu pembayaran yang berisi tentang pemilihan pembayaran yang dilakukan oleh pengguna. SIGAP merupakan sistem informasi yang dibuat berbasis web yang dapat memudahkan pengguna dalam melihat detail gambar gaun yang tersedia.>
+
+
+<1. PENDAHULUAN >
+
+<1.1 Latar Belakang>
+
+Pernikahan merupakan perjanjian antara laki-laki dan perempuan untuk bersuami istri dengan resmi (Kamus Umum Bahasa Indonesia,1984). Menurut Undang-Undang Nomor 1 Tahun 1974 pengertian pernikahan adalah ikatan lahir batin antara seorang pria dengan seorang wanita sebagai suami istri dengan tujuan membentuk keluarga (rumah tangga) yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa (Undang-Undang Perkawinan Nomor 1 Tahun 1974). Berdasarkan pasal 7 (1) UU Nomor 1 Tahun 1974, Batasan umur untuk dilakukannya pernikahan bila pihak pria mencapai umur 19 (Sembilan belas) dan pihak wanita sudah mencapai usia 16 (enam belas) tahun (Undang-Undang Republik Indonesia, Nomor 1 Tentang Pernikahan, 1974. Namun pada umumnya masyarakat Indonesia memiliki pandangan usia menikah yang berkisar anatara usia 24-25 tahun, bagi kaum perempuan mereka lebih banyak memilih usia menikah diusia 25 tahun, karena pada usia tersebut para kaum perempuan merasa dirinya sudah matang secara mental, fisik, dan finansial. Sedangakn para kaum laki-laki memilih usia menikah diusia 25-30 tahun, hal itu dikarenakan laki-laki memiliki tanggung jawab atas penghidupan bagi keluarganya, sehingga rata-rata dari mereka memilih untuk bekerja dan memiliki pengahsilan tetap. Karena sebuah pernikahan merupakan hal yang sakral maka banyak calon pasangan pengantin menginginkan hari tersebut merupakan hari yang sangat spesial. Sehingga tidak sedikit dari mereka rela mempersiapkan segala sesuatunya dengan matang. Terutama pada calon pengantin wanita yang menginginkan tampil seperti ratu sehari dalam pernikahannya, maka mereka perlu untuk mempersiapkan pakaian yang ingin dikenakan dihari pernikahannya tersebut. Untuk memudahkan calon pengantin wanita memilih gaun pengantin sesuai dengan keinginan maka diperlukan sebuah sistem informasi yang dapat memberikan kemudahan dalam proses pemesanan gaun pengantin. Karena pada saat ini belum ada sistem informasi yang menyediakan tentang pemesanan gaun pengantin yang dapat dibeli secara langsung dan hanya disewakan saja.
+
+
+<1.2 Tujuan>
+1. Memudahkan calon pengantin wanita dalam pemilihan gaun pengantin yang belum tersedia dilingkungannya.
+2. Memudahkan calon pengantin wanita dalam pemesanan gaun pengantin sesuai dengan keingianan.
+3. Memberikan layanan yang istimewa kepada calon pengantin wanita karena dikerjakan langsung oleh designer yang handal.
+
+<1.3 Ruang Lingkup Perangkat Lunak>
+Perangkat lunak SIGAP dibuat untuk mengatasi masalah calon pengantin wanita yang mengingkan model gaun yang sesuai namun dilingkungan sekitarnya belum tersedia model gaun yang diinginkan. Sistem ini dibuat berbasis web yang dapat memudahkan pengguna dalam melihat detail gambar gaun yang tersedia.
+
+<1.4 Target Audience>
+Dokumen ini ditujukan kepada pihak pengelolah butik yang ingin memasarkan gaun rancangannya.
+
+<1.4.1 Pengelolah Butik>
+1.	Diharapkan Pihak Penglolah Butik dapat memahamai cara kerja dari sistem SIGAP dalam pemasaran gaun rancangannya sehingga dapat menjadi sistem yang dapat berguna bagi pengguna.
+2.	Pihak pengelolah dapat melakukan perubahan sistem yang dibuat secara mandiri setelah memperoleh izin dari pihak pengembang.
+3.	Segera menghubungi pihak pengembang apabila terjadi kerusakan pada Server atau kerusakan lain.
+4.	Diharapkan admin rutin dalam melakukan update data gaun pengantin dan data-data lain serta melakukan pengecekan terhadap aktifitas yang mencurigakan.
+
+<1.5 Definisi, Istilah dan Singkatan>
+Guna memberikan gambaran yang sama terhadap beberapa definisi, istilah dan singkatan yang digunakan pada dokumen ini, perlu diberikannya penjelasan sebagai berikut:
+
+1. IEEE	:	Institute of Electrical and Electronics Engineers adalah standart internasional untuk pengembang perangkat lunak
+2. SKPL	:	Spesifikasi Kebutuhan Perangkat Lunak atau
+3. SRS	:	Software Requirement Specification atau dokumen hasil analisis sebuah perangkat lunak yang berisi spesifikasi kebutuhan pengguna
+4. Kebutuhan Fungsional : Kebutuhan yang dapat dilakukan oleh admin atau pengelolah yayasan
+5. Kebutuhan Non Fungsional : Fitur yang diberikan oleh pihak pengembang kepada SIGAP
+6. Use Case Diagram : Diagram alur kerja sistem dalam penerapannya
+
+
+<1.6 Referensi>
+
+Berikut adalah daftar referensi yang digunakan dalam pendokumentasian spesifikasi kebutuhan perangkat lunak ini.
+
+-	Holil, Achmad. Template: Spesifikasi Kebutuhan Perangkat Lunak, Jurusan Sistem Informasi ITS, 2006.
+-	
+
+<1.7 Ikhtisar Dokumen>
+Diharapkan dengan pembuatan SKPL SIGAP ini dapat memberikan pengetahuan dan pemahaman pada pengelolah dalam melakukan pengoperasian SIGAP dalam serta dapat menjadi solusi yang tepat bagi pengguna dalam mengatasi permasalahan yang ada.
+
+<2. Deskripsi Umum>
+
+<2.1 Tentang Perangkat Lunak>
+<2.1.1 Kebutuhan Fungsional>
+Secara umum kebutuhan fungsionalitas yang harus dipenuhi oleh pengembang dalam sistem informasi SIGAP adalah sebagai berikut :
+1.	Admin dapat melakukan input data pengguna baru.
+2.	Admin dapat melakukan update data gaun kepada pengguna.
+3.	Terdapat alamat email yang dapat digunakan sebagai pengiriman bukti transfer,juga dapat digunakan sebagai wadah komunikasi untuk para pengguna.
+4.	Terdapat menu history yang dapat dipantau oleh pengguna lamanya pemesanan dan pengiriman.
+
+<2.1.2 Kebutuhan Non Fungsional>
+1.	Sistem ini mengadopsi teknologi web responsive.
+2.	Sistem ini dirancang dengan tujuan memudahkan pengguna dalam pemesanan gaun yang diinginkan.
+3.	Sistem tidak memerlukan tempat penyimpanan data yang besar.
+4.	Sistem ini memiliki keamanan data yang cukup baik.
+
+<2.2 Fungsi - Fungsi Perangkat Lunak>
+
+Tidak semua tempat penyewaan gaun dapat menyediakan gaun yang terbaru dan juga sesuai dengan keinginan para calon pengantin wanita. Untuk memudahkan calon pengantin wanita memilih gaun pengantin sesuai dengan keinginan maka diperlukan sebuah sistem informasi yang dapat memberikan kemudahan dalam proses pemesanan gaun pengantin. Karena pada saat ini belum ada sistem informasi yang menyediakan tentang pemesanan gaun pengantin yang dapat dibeli secara langsung dan hanya disewakan saja. Website SIGAP ini dapat dengan mudah diakses melalui internet karena hanya dibutuhkan web browser untuk menikmati layanan SIGAP ini.
+
+<2.2.1 Use Case Diagram>
+Use case diagram yang dijelaskan adalah use case dalam sistem SIGAP ini pada file yang terdapat pada
+https://github.com/poppyindriana/ADS_1_C.gitdengan penjelasan berikut:
+Use Case Name	: - Pemesanan Gaun Pengantin
+Actor			: - Pengguna/Konsumen
+Description 	: - Pengguna/Konsumen dapat melakukan pemesanan
+
+<2.3 Karakteristik dan Klasifikasi Pengguna>
+<2.3.1 Fungsi Perangkat Lunak>
+Perangkat lunak berbasis web SIGAP berfungsi sebagai media yang menjembatani antara user dengan desaigner dengan adanya perangkat lunak ini diharapkan dapat menyelesaikan masalah untuk menyelesaikan pemesanan gaun pengantin. Kita dapat melakukan pemilihan model,ukuran, warna dan memesan gaun. Dengan adanya system informasi ini memudahkan kita untuk memesan gaun pengantin. 
+
+<2.3.2 Keamanan Data>
+
+Sebagai jaminan kenyamanan pengguna maka harus ada sebuah keamanan jaringan sebagai langkah awal menangkal serangan dan pencurian data dari pihak luar oleh karena itu dibutuhkan administrator khusus untuk memonitor aktivitas mencurigakan sehingga dapat secara tanggap diatasi.
+
+<2.4 Lingkungan Operasi>
+System informasi web responsive ini tidak memerlukan computer dengan spesifikasi khusus mengenai hardware juga software, platform milik pengguna atau user dengan jaringan internet.
+
+<2.5 Batasan Desain dan Implementasi>
+System informasi pemesanan gaun pengantin ini memiliki kelebihan dan juga kekurangan. Kekurangannya adalah system informasi ini memerlukan kuota data untuk mengakses internet. 
+
+<2.6 Dokumentasi Bagi Pengguna>
+
