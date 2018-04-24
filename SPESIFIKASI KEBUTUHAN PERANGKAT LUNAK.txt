@@ -87,7 +87,7 @@ Tidak semua tempat penyewaan gaun dapat menyediakan gaun yang terbaru dan juga s
 
 <2.2.1 Use Case Diagram>
 Use case diagram yang dijelaskan adalah use case dalam sistem SIGAP ini pada file yang terdapat pada
-https://github.com/poppyindriana/ADS_1_C.gitdengan penjelasan berikut:
+https://github.com/poppyindriana/ADS_1_C.git dengan penjelasan berikut:
 Use Case Name	: - Pemesanan Gaun Pengantin
 Actor			: - Pengguna/Konsumen
 Description 	: - Pengguna/Konsumen dapat melakukan pemesanan
