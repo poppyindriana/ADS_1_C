@@ -104,7 +104,33 @@ Sebagai jaminan kenyamanan pengguna maka harus ada sebuah keamanan jaringan seba
 System informasi web responsive ini tidak memerlukan computer dengan spesifikasi khusus mengenai hardware juga software, platform milik pengguna atau user dengan jaringan internet.
 
 <2.5 Batasan Desain dan Implementasi>
-System informasi pemesanan gaun pengantin ini memiliki kelebihan dan juga kekurangan. Kekurangannya adalah system informasi ini memerlukan kuota data untuk mengakses internet. 
+System informasi pemesanan gaun pengantin ini memiliki kekurangan. Kekurangannya adalah system informasi ini memerlukan kuota data untuk mengakses internet. Admin bertanggung jawab penuh mengenai keamanan data milik konsumen serta akan bertanggung jawab dalam pemeliharaan perangkat lunak. Pada perangkat lunak ini memiliki beberapa batasan antara lain : Pembelian produk hanya dapat dilakukan apabila konsumen telah mendaftar. Aplikasi ini hanya menyediakan bukti pembayaran terhadap produk yang dipesan dengan melakukan transfer ke rekening yang telah disediakan. 
 
 <2.6 Dokumentasi Bagi Pengguna>
+Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registrasi.
+
+<2.7 Asumsi dan Ketergantungan
+
+<3. Kebutuhan Antarmuka Eksternal
+<3.1 Antarmuka Pengguna
+
+<3.2 Antarmuka Perangkat Keras
+
+<3.3 Antarmuka Perangkat Lunak
+
+<3.4 Antarmuka Komunikasi
+
+<4. Feature Sistem
+<4.1 Feature Sistem 1
+
+<4.2 Feature Sistem 2
+
+<5. Kebutuhan NonFungsional Lainnya
+<5.1 Kebutuhan Kinerja
+
+<5.2 Kebutuhan Keamanan
+<5.3 Kebutuhan Perlindungan Keamanan
+<5.4 Atribut Kualitas Perangkat Lunak
+<5.5 Aturan Penggunaan
+<6. Kebutuhan Lain
 
