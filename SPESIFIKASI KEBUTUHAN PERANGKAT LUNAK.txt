@@ -107,13 +107,13 @@ System informasi web responsive ini tidak memerlukan computer dengan spesifikasi
 System informasi pemesanan gaun pengantin ini memiliki kekurangan. Kekurangannya adalah system informasi ini memerlukan kuota data untuk mengakses internet. Admin bertanggung jawab penuh mengenai keamanan data milik konsumen serta akan bertanggung jawab dalam pemeliharaan perangkat lunak. Pada perangkat lunak ini memiliki beberapa batasan antara lain : Pembelian produk hanya dapat dilakukan apabila konsumen telah mendaftar. Aplikasi ini hanya menyediakan bukti pembayaran terhadap produk yang dipesan dengan melakukan transfer ke rekening yang telah disediakan. 
 
 <2.6 Dokumentasi Bagi Pengguna>
-Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registrasi.
+Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registrasi, meliputi user manuals, tutorials dan bantuan online lainnya yang dapat membantu user. 
 
 <2.7 Asumsi dan Ketergantungan
 
 <3. Kebutuhan Antarmuka Eksternal
 <3.1 Antarmuka Pengguna
-
+Perangkat Lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
 <3.2 Antarmuka Perangkat Keras
 
 <3.3 Antarmuka Perangkat Lunak
