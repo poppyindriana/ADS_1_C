@@ -101,7 +101,7 @@ Perangkat lunak berbasis web SIGAP berfungsi sebagai media yang menjembatani ant
 Sebagai jaminan kenyamanan pengguna maka harus ada sebuah keamanan jaringan sebagai langkah awal menangkal serangan dan pencurian data dari pihak luar oleh karena itu dibutuhkan administrator khusus untuk memonitor aktivitas mencurigakan sehingga dapat secara tanggap diatasi.
 
 <2.4 Lingkungan Operasi>
-System informasi web responsive ini tidak memerlukan computer dengan spesifikasi khusus mengenai hardware juga software, platform milik pengguna atau user dengan jaringan internet.
+System informasi web responsive ini tidak memerlukan komputer dengan spesifikasi khusus mengenai hardware juga software, platform milik pengguna atau user dengan jaringan internet.
 
 <2.5 Batasan Desain dan Implementasi>
 System informasi pemesanan gaun pengantin ini memiliki kekurangan. Kekurangannya adalah system informasi ini memerlukan kuota data untuk mengakses internet. Admin bertanggung jawab penuh mengenai keamanan data milik konsumen serta akan bertanggung jawab dalam pemeliharaan perangkat lunak. Pada perangkat lunak ini memiliki beberapa batasan antara lain : Pembelian produk hanya dapat dilakukan apabila konsumen telah mendaftar. Aplikasi ini hanya menyediakan bukti pembayaran terhadap produk yang dipesan dengan melakukan transfer ke rekening yang telah disediakan. 
@@ -112,8 +112,9 @@ Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registra
 <2.7 Asumsi dan Ketergantungan
 
 <3. Kebutuhan Antarmuka Eksternal
-<3.1 Antarmuka Pengguna
 Perangkat Lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
+<3.1 Antarmuka Pengguna
+
 <3.2 Antarmuka Perangkat Keras
 
 <3.3 Antarmuka Perangkat Lunak
