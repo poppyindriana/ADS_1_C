@@ -118,9 +118,9 @@ Perangkat Lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) membutuhkan fa
 <3.2 Antarmuka Perangkat Keras
 
 <3.3 Antarmuka Perangkat Lunak
-
+  
 <3.4 Antarmuka Komunikasi
-
+  Modem, kabel LAN Rj-45 
 <4. Feature Sistem
 <4.1 Feature Sistem 1
 
