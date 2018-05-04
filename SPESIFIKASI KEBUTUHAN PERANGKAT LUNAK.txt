@@ -89,9 +89,30 @@ Tidak semua tempat penyewaan gaun dapat menyediakan gaun yang terbaru dan juga s
 <2.2.1 Use Case Diagram>
 Use case diagram yang dijelaskan adalah use case dalam sistem SIGAP ini pada file yang terdapat pada
 https://github.com/poppyindriana/ADS_1_C.git dengan penjelasan berikut:
-Use Case Name	: - Pemesanan Gaun Pengantin
-Actor			: - Pengguna/Konsumen
-Description 	: - Pengguna/Konsumen dapat melakukan pemesanan
+Use Case Text
+User case name	: update data
+Actor			: pemilik butik
+Description 	: melakukan update data gaun yang terbaru yang dimiliki butik
+Trigger : pemilik butik membutuhkan konfirmasi pengupdatean data gaun
+Pre condition : - pemilik butik memiliki id login
+                - sistem sedang aktif / online
+Normal course : - pemilik butik memasukkan id
+                - sistem mencocokkan id butik yang telah terdaftar
+                - sistem memberitahukan pemilik butik serta mengkonfirmasi status butik menjadi terdaftar
+Post condition : nama butik telah terdaftar pada daftar butik
+Exception : - sistem offline
+
+User case name : pemesanan gaun
+Actor : customer
+Description : customer melakukan pemesanan gaun
+Trigger : customer membutuhkan status gaun yang ingin dipesan
+Pre condition : sistem sedang aktif / online
+Normal case : - customer memilih gaun yang akan dipesan
+              - sistem mengirimkan status gaun
+              - sistem mengkonfirmasi pemesanan
+              - customer melakukan pemesanan gaun
+Post condition : gaun telah dipesan
+Exception : sistem offline
 
 <2.3 Karakteristik dan Klasifikasi Pengguna>
 <2.3.1 Fungsi Perangkat Lunak>
