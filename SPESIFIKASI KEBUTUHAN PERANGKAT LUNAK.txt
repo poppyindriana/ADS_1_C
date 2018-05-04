@@ -120,9 +120,6 @@ https://github.com/poppyindriana/ADS_1_C.git dengan penjelasan berikut:
   <2.6 Dokumentasi Bagi Pengguna>
   Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registrasi, meliputi user manuals, tutorials dan bantuan online lainnya yang dapat membantu user. 
 
-  <2.7 Asumsi dan Ketergantungan
-
-
 <3. Kebutuhan Antarmuka Eksternal
 Perangkat Lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
   <3.1 Antarmuka Pengguna
