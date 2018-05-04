@@ -36,7 +36,7 @@ Pernikahan merupakan perjanjian antara laki-laki dan perempuan untuk bersuami is
 Perangkat lunak SIGAP dibuat untuk mengatasi masalah calon pengantin wanita yang mengingkan model gaun yang sesuai namun dilingkungan sekitarnya belum tersedia model gaun yang diinginkan. Sistem ini dibuat berbasis web yang dapat memudahkan pengguna dalam melihat detail gambar gaun yang tersedia.
 
 <1.4 Target Audience>
-Dokumen ini ditujukan kepada pihak pengelolah butik yang ingin memasarkan gaun rancangannya.
+Dokumen ini ditujukan kepada pihak pengelolah butik yang ingin memasarkan gaun rancangannya pada para calon pengantin yang ingin memesan gaun secara online.
 
 <1.4.1 Pengelolah Butik>
 1.	Diharapkan Pihak Penglolah Butik dapat memahamai cara kerja dari sistem SIGAP dalam pemasaran gaun rancangannya sehingga dapat menjadi sistem yang dapat berguna bagi pengguna.
@@ -66,6 +66,7 @@ Berikut adalah daftar referensi yang digunakan dalam pendokumentasian spesifikas
 Diharapkan dengan pembuatan SKPL SIGAP ini dapat memberikan pengetahuan dan pemahaman pada pengelolah dalam melakukan pengoperasian SIGAP dalam serta dapat menjadi solusi yang tepat bagi pengguna dalam mengatasi permasalahan yang ada.
 
 <2. Deskripsi Umum>
+SIGAP merupakan sebuah aplikasi berbasis web yang digunakan untuk pemesanan gaun pengantin. Pengguna aplikasi ini dapat melakukan login dengan mengisikan email dan password, kemudian masuk menu home dengan menampilkan berbagai gaun yang populer atau banyak dipesan, kemudian masuk menu product dengan menampilkan berbagai gaun rancangan yang dimiliki oleh butik. Pada menu ini juga menampilkan pemilihan menu pembayaran yang dapat dilakukan oleh pengguna aplikasi ini. Pengguna juga dapat melihat aktivitas yang telah dilakukan pada menu history.
 
 <2.1 Tentang Perangkat Lunak>
 <2.1.1 Kebutuhan Fungsional>
