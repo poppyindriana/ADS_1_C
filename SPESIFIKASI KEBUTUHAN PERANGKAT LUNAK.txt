@@ -115,7 +115,7 @@ Komponen dokumentasi diperuntukkan kepada pengguna yang telah melakukan registra
 <3. Kebutuhan Antarmuka Eksternal
 Perangkat Lunak Sistem Informasi Pemesanan Gaun Pengantin (SIGAP) membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
 <3.1 Antarmuka Pengguna
-Pada web ini menu "home","product",dan "contact" akan selalu muncul dengan tujuan untuk memudahkan customer dalam pemilihan menu.
+Pada web ini menu "home","product",dan "contact" akan selalu muncul dengan tujuan untuk memudahkan customer dalam pemilihan menu. Seperti pada yang sudah ada di (https://drive.google.com/drive/folders/1ipCGP-Q8_jRi89PMNGTR3y5X-eSoXTcX) sebagai perancangan web SIGAP. Pada menu "home" berupa menu yang menampilkan desain-desain gaun yang banyak diminati oleh customer sebagai bahan referensi customer untuk pemilihan gaun. Pada menu "product" berisi desain gaun-gaun keseluruhan, dan apabila customer memilih atau mengklik gaun yang ingin dipesan maka akan muncul keterangan dari gaun tersebut dan terdapat menu pembayaran yang harus dilakukan oleh customer. Pada menu "contact" berisi alamat email butik yang digunakan untuk pengiriman bukti transfer dan juga alamat dari customer. Apabila customer telah melakukan pemesanan maka akan muncul pada menu history.
 
 <3.2 Antarmuka Perangkat Keras
 Pada web ini tidak membutuhkan perangkat keras yang begitu spesifik, karena hanya berupa web yang bisa langsung digunakan oleh customer.
