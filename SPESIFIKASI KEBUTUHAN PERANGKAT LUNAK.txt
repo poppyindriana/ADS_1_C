@@ -167,10 +167,37 @@ Deskripsi :  User dapat menambahkan data sesuai dengan pesanan ke dalam system i
 Kode Buble DFD-1-5
 Deskripsi : User dapat mengetahui jumlah harga yang harus dibayarkan sesuai dengan pesanan yang telah dilakukan.
 
-
-
 <4. Kebutuhan NonFungsional Lainnya
+3.2.4 Data Store
+Data Store : Data_GaunPengantin.
+Deskripsi  : berisi data pemesanan gaun pengantin.
+Data Store : Data_modelgaun
+Deskripsi  : berisi data model gaun apa saja yang dipesan.
 
-
+3.4 Kebutuhan Non Fungsional
+	Kebutuhan non fungsional yang terdapat pada Sistem Informasi Pemesanan Gaun Pengantin antara lain.
+	ID SRS-NF-OUT-001
+	Parameter : Operational
+	Kebutuhan : Perangkat lunak dirancang berbasis web, sehingga dapat diakses pada perangkat mobile
+	ID SRS-NF-OUT-002
+	Parameter : Operational
+	Kebutuhan : Perangkat lunak menampilkan output berupa print harga total pemesanan oleh user.
+	ID SRS-NF-OP-003
+	Parameter : Performance 
+	Kebutuhan : Akses web pada perangkat mobile berlangsung 2 detik
+	ID SRS-NF-OP-004
+	Parameter : Performance 
+	Kebutuhan : Perangkat luna menampilka output berupa print jumlah harga total pemesanan gaun pengntin pesanan pelanggan.
+	ID SRS-NF-OP-005
+	Parameter : Security
+	Kebutuhan : Perangkat Lunak hanya menampilkan output berupa print harga total pesanan
+	setelah melakukan sign in yang dilakukan oleh user. sign in hanya dapat dilakukan oleh orang yang telah terdaftar, sehingga mereka memiliki akun dan password. 
+	ID SRS-NF-OP-006
+	Parameter : Security
+	Kebutuhan : Perangkat Lunak menampilkan design gaun pengantin yang telah disediakan oleh designer.
+	ID SRS-NF-OP-007
+	Parameter : Security
+	Kebutuhan : Perangkat Lunak hanya input form data pemesanan, hanya dapat dilihat oleh Pihak admin dan user saja.
+	
 <5. Kebutuhan Lain
 
