@@ -1,16 +1,20 @@
 .header { 
-   background-color:  #9933ff; 
+   background-color:  white; 
    color: white; 
    height: 100px;
-   margin-left: -5px;
+   position: fixed;
+   top: 0;
+   width: 100%;
+   margin-bottom: -100px;
 }
-.headerText { 
-   margin-top: 20px;
+.headerIcon { 
    margin-left: 40px;  
    color: white; 
    text-transform: capitalize;
    font-size: 45;
    position: absolute;
+   height: 100px;
+   width: 150px;
 }
 
 .headerMenu{
@@ -19,65 +23,100 @@
 }
 
 .btn {
-	background-color: #9933ff;
+	  background-color: white;
     border: none; /* Remove borders */
-    color: white; /* Add a text color */
+    color: #1a66ff; /* Add a text color */
     padding: 14px 30px; /* Add some padding */
     cursor: pointer; /* Add a pointer cursor on mouse-over */
 }
-.btn:hover {background-color: #7300e6;}
-
-.slider{
-	background-color: black;
-
+.btn:hover {
+  color : white;
+  background-color: #7300e6;
 }
-
+.slider{
+}
 .nav { 
-   background-color: #0073e6; 
+   background-color: #e6ccff; 
    color:#FFF; 
    width:25%;
-   height: 800px;
    float:right;
 }
 
 .content {
-   background-color: #80bfff; 
+   background-color: #b366ff; 
    width:75%;
-   height: 800px;
    color:#FFF; 
    float:left;
 }
 
+.contentText { 
+   margin-top: 20px;
+   margin-left: 40px;  
+   color: white; 
+   font-size: 30;
+}
+
 .footer { 
 	clear:both;
-   background-color: #003366; 
-   color:#FFF; 
-   height: 200px;
+  background-color: #5900b3; 
+  color:#FFF; 
+  height: 200px;
+}
+
+.footerText{
+  margin-left: 80px;
+  margin-top: 20px;
+  width : 300px;
+  height: 100px;
+  font-size: 40;
+  float: left;
+}
+.footerBox{
+  font-size: 12;
+  border-left: 1px solid white;
+  width: 300px;
+  margin-left: 350px;
+}
+.footerBox1{
+  font-size: 12;
+  border-left: 1px solid white;
+  width: 300px;
+  margin-left: 650px;
+  margin-top: -107px;
 }
 
 .Image_picture{
+  border : 1px solid white;
 	border-radius: 10px;
 	background-color: white;
-	width: 80%;
-	height: 250px;
-	margin-top: 10%;
-	margin-left: 10%;
+	width: 60%;
+	height: 200px;
+	margin-top: 15%;
+	margin-left: 20%;
+  margin-bottom: 5%;
 }
+
 .Text_image{
 	background-color: #0059b3;
 	text-align: center;
 	width: 80%;
-	height: 100zpx;
+	height: 100px;
 	margin-left: 10%;
 }
-.Nav_menu{
-	background-color: #0059b3;
+.Nav_btn{
+  color: white;
+  text-decoration: none;
+	background-color: #7e57c2;
 	text-align: center;
-	text-decoration-style: center;
 	width: 80%;
 	height: 50px;
 	margin-left: 10%;
 	margin-top: 1%;
+  border-radius: 5px;
+}
+
+.Nav_btn:hover {
+    background-color: #1a66ff;
 }
 .Logo{
 	width: 10%;
@@ -93,8 +132,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 100%;
   max-height: : 500px;
-  position: relative;
-  margin: auto;
+  margin-top: 100px;
 }
 
 /* Hide the images by default */
@@ -165,3 +203,70 @@ img {vertical-align: middle;}
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+div.gallery {
+    margin: 5px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 327px;
+}
+
+div.gallery:hover {
+    border: 2px solid #1a66ff;
+}
+
+div.gallery img {
+    width: 323px;
+    height: 323px;
+}
+
+div.desc {
+	background-color: #5900b3;
+    padding: 15px;
+    text-align: center;
+}
+div.desc:hover {
+    background-color: #1a66ff;
+}
+
+#map{
+  border: 1px solid black;
+    float: right;
+    height: 194px;
+    width: 350px;
+    margin-right: 105px;
+    margin-top: -62px;
+}
+
+.boxLogin{
+  height: 400px;
+  width :350px;
+  background-color: #f3e5f5;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.boxInput{
+  border-radius: 10px;
+  background-color: white;
+  border: none;
+  margin-bottom: 10px;
+  height: 50px;
+  width:300px;
+  text-align: center;
+}
+
+.boxButton{
+  background-color:#6a1b9a;
+  height: 50px;
+  width:300px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  color : white;
+}
+
