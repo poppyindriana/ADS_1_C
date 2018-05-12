@@ -204,5 +204,19 @@ https://github.com/poppyindriana/ADS_1_C.git dengan penjelasan berikut:
 	Parameter : Security
 	Kebutuhan : Perangkat Lunak hanya input form data pemesanan, hanya dapat dilihat oleh Pihak admin dan user saja.
 	
+<4. Feature System
+	Sistem Informasi Pemesanan Gaun Pngantin ini dibuat untuk memudahkan customer dalam memesan gaun pernikahan. customer hanya 		perlu memilih model dari gaun yang diinginkan. selanjutnya customer harus memilih ukuran serta jumlah gaun yang dipesan.
+	
+	KF101: Menu utama, pada tampilan ini akan ditampilkan menu utama atau halaman pertama dari sistem informasi. halaman utama ini 			berisi button-button yang apabila kita klik akan men-link ke halaman berikutnya sesuai dengan nama button-nya.
+	KF102: halaman design gaun, halaman ini menampilkan berbagai macam model gaun yang telah tersedia 
+	KF103: halaman pengisian data, data yang dimaksud disini adalah ukuran dari gaun, warna yang dipilih serta lengan panjang atau 			pendek sesuai dengan pilihan.
+	KF104: halaman komentar, memungkinkan customer untuk memberikan komentar baik itu kritik, saran atau masukkan terhadap pemilik 			butik.
+	KF105: cetak resi atau nota pembayaran, ini memungkinkan pelanggan dapat mencetak tagihan yang harus dibayarkan oleh customer.
+	KF106: halaman verivikasi pembayaran, setelah melakukan pembayaran customer dapat melihat verivikasi transaksi yang telah 			dilakukan pada halaman tersebut. 
+	KF107: Sign in, customer perlu melakukan sign in terlebih dahulu untuk dapat mengakses sistem informasi.
+	KF108: jasa pengiriman, gaun juga dapat dibeli secara online. dalam sistem informasi juga tersedia jasa pengiriman yang 			diinginkan.
+	KF109: jasa pembayaran, pembayaran dapat dilakukan secara langsung melalui transfer atm, link atau visa.
+	KF110: menu follow berbagai social media lainnya, ini memungkin customer untuk mendapatkan informasi dari akun-akun terkait 			milik butik ini.
 <5. Kebutuhan Lain
+	Selain kubutuhan software, hardware, fungsional dan non-fungsional sistem ini juga memerlukan banyak dukungan dari berbagai 		pihak terkait agar sistem informasi ini dapat berguna sebagai mana mestinya.
 
